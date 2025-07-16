@@ -1,4 +1,4 @@
-# 📊 Superstore Sales Insights – Tableau Dashboard
+# 📊 Analytics Reports – Tableau Dashboard
 
 Check out the interactive [dashboard](https://public.tableau.com/shared/2W7ZCCKD4?:display_count=n&:origin=viz_share_link) for detailed insights.
 

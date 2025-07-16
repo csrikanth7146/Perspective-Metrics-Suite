@@ -1,6 +1,6 @@
 # analytics report using tableau
 
-Check out [dashboard](https://app.powerbi.com/reportEmbed?reportId=b4a53c63-d213-4184-ba80-f73efbb422e3&autoAuth=true&ctid=957886e1-6d0b-44df-8768-a3ab1550488b) for more information.
+Check out [dashboard](https://public.tableau.com/views/assignment_17520803028860/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) for more information.
 # 📉 Global Tech Layoffs – SQL Data Cleaning & Exploration
 
 ![MySQL](https://img.shields.io/badge/SQL-MySQL-informational?style=flat&logo=mysql&logoColor=white)

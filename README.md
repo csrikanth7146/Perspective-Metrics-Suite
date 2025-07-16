@@ -1,6 +1,6 @@
 # analytics report using tableau
 
-Check out [dashboard](https://public.tableau.com/views/assignment_17520803028860/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) for more information.
+Check out [dashboard](https://public.tableau.com/shared/2W7ZCCKD4?:display_count=n&:origin=viz_share_link) for more information.
 # 📉 Global Tech Layoffs – SQL Data Cleaning & Exploration
 
 ![MySQL](https://img.shields.io/badge/SQL-MySQL-informational?style=flat&logo=mysql&logoColor=white)

@@ -1,4 +1,4 @@
-# 📊 Analytics Reports – Tableau Dashboard
+# 📊 Perspective Metrics Suite
 
 Check out the interactive [dashboard](https://public.tableau.com/shared/2W7ZCCKD4?:display_count=n&:origin=viz_share_link) for detailed insights.
 
